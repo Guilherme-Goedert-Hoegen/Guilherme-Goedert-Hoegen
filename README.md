@@ -9,7 +9,7 @@
  
 - 🔭 I’m currently working on nothing;
 - 🌱 I’m currently learning how to program;
-- 📷 If do you want to talk to me, just send a message in my Instagram: <a href = 'https://www.instagram.com/guihoegen/'>;
+- 📷 If do you want to talk to me, just send a message in my Instagram: <a href = 'https://www.instagram.com/guihoegen/'> Instagram;
 - 🙋‍♂️ I've never had programmed, I start this year programming with javaScript, and I'm liking to much, always looking for improvements, I'm a frindly guy that loves play soccer and volleyball in my free times;
 
 
